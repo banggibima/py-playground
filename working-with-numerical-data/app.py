@@ -1,0 +1,7 @@
+print(round(3.1415926, 2))
+print(round(1234, -2))
+print(abs(-5))
+print(bin(20))
+print(oct(20))
+print(hex(20))
+print(complex(2, 3))
